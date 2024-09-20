@@ -18,10 +18,10 @@ Abstract: E-Commerce App made from scratch using PERN Stack
 
 ## Backend
 
- [BackEnd](backend/README.md.)
+ [BackEnd](backend/README.md/)
 
  ## Frontend
- [Frontend](frontend/README.md.)
+ [Frontend](frontend/README.md)
 
 
 #### Main Page 
