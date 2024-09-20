@@ -22,7 +22,3 @@ Abstract: E-Commerce App made from scratch using PERN Stack
 
  ## Frontend
  [Frontend](frontend/README.md)
-
-
-#### Main Page 
-![Alt text](home.png)
